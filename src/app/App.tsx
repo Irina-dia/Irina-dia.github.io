@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h2>Довгалюк Ирина</h2>
         <p>
           <strong>Цели:</strong> получить систематизированные знания о react и научиться работать c новыми технологиями
         </p>
